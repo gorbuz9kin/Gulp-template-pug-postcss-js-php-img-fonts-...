@@ -1,0 +1,43 @@
+/*
+* Add variables
+*/
+@import "base/variables";
+
+/*
+* Add mixins
+*/
+@import "base/mixins";
+/*
+* Add fonts
+*/
+@import "base/fonts";
+@import "base/font-awesome";
+
+/*
+* Add base style
+*/
+@import "base/base";
+
+/*
+* Add style of header
+*/
+@import "layout/header";
+
+
+/*
+* Add style of sections
+*/
+
+/*
+* Add style of footer
+*/
+@import "layout/footer";
+
+/* Pages */
+
+
+/*
+* Add media rules
+*/
+@import "media/media";
+
